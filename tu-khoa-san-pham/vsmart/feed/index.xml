@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>vsmart &#8211; DIENTHOAIRE</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/vsmart/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Jun 2021 05:43:31 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Điện thoại Vsmart Aris Pro &#8211; VSM-ARPR</title>
+		<link>/sản%20phẩm/dien-thoai-vsmart-aris-pro-vsm-arpr/</link>
+					<comments>/sản%20phẩm/dien-thoai-vsmart-aris-pro-vsm-arpr/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 04:33:01 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=103</guid>
+
+					<description><![CDATA[Là dòng sản phẩm cao cấp nhất của Vsmart. Thương hiệu Điện thoại Duy nhất tại Việt nam.
+- Bản thường: không chip VSM security ram/rom: 8GB /128GB
+- Bản PRO: có chip VSM security ram/rom: 8GB /256GB]]></description>
+										<content:encoded><![CDATA[<h3>Thương hiệu smartphone Việt &#8211; Vsmart chính thức trình làng Vsmart Aris Pro. Mẫu điện thoại này đánh dấu một bước ngoặc lớn trong làng smartphone với công nghệ camera ẩn trong màn hình, mức giá hợp lý giúp người Việt có cơ hội tiếp cận những công nghệ mới nhất.</h3>
+
+<a href='/?attachment_id=104'><img width="150" height="100" src="/wp-content/uploads/2021/06/vsmart-aris-pro-282420-082418.jpg" class="attachment-thumbnail size-thumbnail" alt="Album Vsmart" loading="lazy" /></a>
+<a href='/?attachment_id=105'><img width="150" height="150" src="/wp-content/uploads/2021/06/vsmart-aris-pro-green-200-org.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='/?attachment_id=106'><img width="150" height="100" src="/wp-content/uploads/2021/06/vsmart-aris-pro-xanh-1-org.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/sản%20phẩm/dien-thoai-vsmart-aris-pro-vsm-arpr/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

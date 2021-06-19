@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>tablet &#8211; DIENTHOAIRE</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/tablet/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Jun 2021 08:28:59 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Máy tính bảng Samsung Galaxy Tab A7 Lite</title>
+		<link>/sản%20phẩm/may-tinh-bang-samsung-galaxy-tab-a7-lite/</link>
+					<comments>/sản%20phẩm/may-tinh-bang-samsung-galaxy-tab-a7-lite/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 08:28:58 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=139</guid>
+
+					<description><![CDATA[Là sản phẩm hot Tablet nhà samsung]]></description>
+										<content:encoded><![CDATA[<h4>Galaxy Tab A7 Lite là phiên bản rút gọn của dòng máy tính bảng &#8220;ăn khách&#8221; Galaxy Tab A7 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h4>
+<h4>Thiết kế siêu mỏng nhẹ</h4>
+<p><img loading="lazy" class="alignnone size-full wp-image-140" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1.jpg" alt="" width="800" height="533" /></p>
+<p>&nbsp;</p>
+<p>Galaxy Tab A7 Lite sở hữu kiểu thiết kế đặc trưng của dòng Galaxy Tab A7. Thiết bị sử dụng chất liệu nhôm với thiết kế nguyên khối giúp cho thiết bị trở nên cao cấp hơn dù chỉ thuộc phân khúc tầm trung giá rẻ.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sản%20phẩm/may-tinh-bang-samsung-galaxy-tab-a7-lite/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

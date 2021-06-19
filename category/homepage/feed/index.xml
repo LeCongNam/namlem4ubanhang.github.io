@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Home &#8211; WordPress_Demo</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/homepage/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Không gì là không thể</description>
+	<lastBuildDate>Fri, 04 Jun 2021 07:53:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Home Page</title>
+		<link>/homepage/home-page/</link>
+					<comments>/homepage/home-page/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Fri, 04 Jun 2021 07:47:49 +0000</pubDate>
+				<category><![CDATA[Home]]></category>
+		<guid isPermaLink="false">/?p=131</guid>
+
+					<description><![CDATA[Chào Mừng các bạn đến với trang Blog của Lê Công Nam. Các bạn hãy cùng Lê công nam Du lịch Từ bắc vào nam nhé. Chúc các bạn vui vẻ khi ở Blog của tôi]]></description>
+										<content:encoded><![CDATA[
+<p>Chào Mừng các bạn đến với trang Blog của Lê Công Nam. Các bạn hãy cùng Lê công nam Du lịch Từ bắc vào nam nhé. Chúc các bạn vui vẻ khi ở Blog của tôi</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/homepage/home-page/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
